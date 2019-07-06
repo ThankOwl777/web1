@@ -14,15 +14,15 @@ ol {
   margin: 0;
   padding: 20px;
 }
-#night_day {
-  margin-bottom: 10px;
-}
 #grid {
   display: grid;
   grid-template-columns: 150px 1fr;
 }
 #grid ol{
   padding-left: 33px;
+}
+#grid input {
+  margin-bottom: 10px;
 }
 #grid #article {
   padding-left: 25px;
